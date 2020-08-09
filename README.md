@@ -7,3 +7,5 @@
 Enthusiast of the best web & mobile development technologies.
 
 "It is great to celebrate success, but it is more important to learn from the lessons of failure."
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Sup3r-Us3r&show_icons=true" alt="Sup3r-Us3r" /></p>
