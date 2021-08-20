@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/22561893?v=4" alt="Profile" height="285" width="320" />
+<img align="left" src="https://avatars.githubusercontent.com/u/22561893?v=4" alt="Profile" width="320" />
 
 ```csharp
 Mayderson Mello
