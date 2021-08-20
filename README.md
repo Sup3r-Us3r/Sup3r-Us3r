@@ -1,11 +1,22 @@
-# Mayderson Mello
+```zsh
+> neofetch
+```
 
-[![GitHub Badge](https://img.shields.io/badge/-Sup3r--Us3r-6633cc?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Sup3r-Us3r)](https://github.com/Sup3r-Us3r)
-[![Linkedin Badge](https://img.shields.io/badge/-Mayderson%20Mello-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maydersonmello)](https://linkedin.com/in/maydersonmello)
-[![Gmail Badge](https://img.shields.io/badge/-maydersonmello@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maydersonmello@gmail.com)](mailto:maydersonmello@gmail.com)
+<img align="left" src="https://avatars.githubusercontent.com/u/22561893?v=4" alt="Profile" height="285" width="320" />
 
-Enthusiast of the best web & mobile development technologies.
-
-"It is great to celebrate success, but it is more important to learn from the lessons of failure."
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Sup3r-Us3r&show_icons=true&icon_color=7159c1&text_color=999999&title_color=111111" alt="Sup3r-Us3r" /></p>
+```csharp
+Mayderson Mello
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Location: Brazil
+Frameworks: ReactJS/Native, Next.js, Flutter
+Languages: JavaScript, TypeScript, Node.js
+           Dart, Elixir,
+           HTML, CSS
+Learning: Docker, PostgreSQL,
+          Microservices, Patterns
+Hobbies: Motorcycle, Gaming
+Linkedin: maydersonmello
+Email: maydersonmello@gmail.com
+```
