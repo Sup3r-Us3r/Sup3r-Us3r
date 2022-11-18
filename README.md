@@ -1,21 +1,18 @@
 ```zsh
-> neofetch
+> info
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/22561893?v=4" alt="Profile" width="320" />
+<img align="left" src="https://avatars.githubusercontent.com/u/22561893?v=4" alt="Profile" height="228" width="230" />
 
-```csharp
-Mayderson Mello
--------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Location: Brazil
-Frameworks: ReactJS/Native, Next.js, Flutter
-Languages: JavaScript, TypeScript, Node.js
-           Dart, Elixir
-Learning: Docker, PostgreSQL,
-          Microservices, Patterns
-Hobbies: Motorcycle, Gaming
-Linkedin: maydersonmello
-Email: maydersonmello@gmail.com
+```
+▉▉   │ OS ......... Arch Linux x86_64
+  ▉▉ │ Shell ...... /usr/bin/zsh
+▉▉   │ WM ......... i3
+  ▉▉ │ Terminal ... termite
+▉▉   │ Location ... Brazil
+  ▉▉ │ Frameworks . React | React Native | Next.js | NestJS | Flutter
+▉▉   │ Languages .. JavaScript | TypeScript | Node.js | Elixir | Golang
+  ▉▉ │ Hobbies .... Motorcycle | Gaming
+▉▉   │ Linkedin ... maydersonmello
+  ▉▉ │ Email ...... maydersonmello@gmail.com
 ```
