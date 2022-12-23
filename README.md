@@ -16,3 +16,9 @@
 ▉▉   │ Linkedin ... maydersonmello
   ▉▉ │ Email ...... maydersonmello@gmail.com
 ```
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sup3r-Us3r&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sup3r-Us3r&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sup3r-Us3r&theme=github_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sup3r-Us3r&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com?user=Sup3r-Us3r&theme=github-dark&hide_border=true) |
+| :-: | :-: |
