@@ -2,7 +2,7 @@
 > info
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/22561893?v=4" alt="Profile" height="228" width="230" />
+<img align="left" src="https://github.com/Sup3r-Us3r/Sup3r-Us3r/assets/22561893/5936bad1-12f2-46f4-86e7-96ead86808ee" alt="Profile" height="228" width="230" />
 
 ```
 ▉▉   │ OS ......... Arch Linux x86_64
